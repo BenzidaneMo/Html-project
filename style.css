@@ -14,8 +14,7 @@
     overflow: hidden;
     margin:0;
     font-family: Arial, Helvetica, sans-serif;
-    /*font-weight: bold;
-  */
+    /*font-weight: bold;*/
   }
   
   .container{
@@ -30,7 +29,7 @@
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
-      /*box-shadow:0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);*/
+      box-shadow:0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
       height: 80vh;
       border-radius: 50px;
       color:#fff;
