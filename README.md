@@ -1,1 +1,2 @@
-# Html-project
+expanding card mini project
+using html css js
